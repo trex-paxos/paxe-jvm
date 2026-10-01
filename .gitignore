@@ -1,0 +1,7 @@
+target/
+# Machine-local IDE state; the Eclipse JDT language server writes these into
+# every module directory and they carry pre-rename paths.
+.project
+.classpath
+.factorypath
+.settings/
